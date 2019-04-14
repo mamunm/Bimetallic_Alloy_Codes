@@ -1,0 +1,1253 @@
+Information for A3B slab calculations:
+Status of Pd3Tc: Successful
+Status of Ag3Os: Successful
+Status of Rh3Cd: Successful
+Status of La3In: Successful
+Status of Os3In: Successful
+Status of Tl3Pt: Successful
+Status of Ag3Al: Successful
+Status of Ir3Hf: Successful
+Status of Tl3Al: Successful
+Status of Ta3Hf: Successful
+Status of Cr3Pd: Successful
+Status of Sn3Mo: Successful
+Status of Al3Rh: Successful
+Status of Pt3Hg: Successful
+Status of Sn3Ta: Successful
+Status of Tc3Ru: Successful
+Status of Y3Rh : Successful
+Status of Mn3Hg: Successful
+Status of Cu3W : Successful
+Status of Y3Tc : Successful
+Status of Co3Mo: Successful
+Status of Al3Zn: Successful
+Status of Mn3Fe: Successful
+Status of Cu3Zr: Successful
+Status of Cu3Au: Successful
+Status of Cu3Os: Successful
+Status of Ga3Cu: Successful
+Status of Ag3Hg: Successful
+Status of Sn3Al: Successful
+Status of La3Pt: Successful
+Status of Cu3Tl: Successful
+Status of Mo3Au: Successful
+Status of Mn3Pt: Successful
+Status of In3Cd: Successful
+Status of Zr3Sn: Successful
+Status of Ni3Rh: Successful
+Status of Pb3W : Successful
+Status of Au3Ru: Successful
+Status of Hf3Zr: Successful
+Status of Zn3In: Successful
+Status of Co3W : Successful
+Status of Cr3La: Successful
+Status of Al3Ni: Successful
+Status of Ni3Al: Successful
+Status of Pd3Os: Successful
+Status of Zn3Tl: Successful
+Status of Os3Hg: Successful
+Status of Nb3Al: Successful
+Status of Tc3Cr: Successful
+Status of Al3Ru: Successful
+Status of Os3Al: Successful
+Status of Fe3Ti: Successful
+Status of Mo3Y : Successful
+Status of In3Ru: Successful
+Status of Cd3Hg: Successful
+Status of Tc3V : Successful
+Status of Mn3Cd: Successful
+Status of Ru3Y : Successful
+Status of V3Pt : Successful
+Status of Ru3Ni: Successful
+Status of Ta3Os: Successful
+Status of Cu3Sn: Successful
+Status of Tl3Zr: Successful
+Status of Au3Os: Successful
+Status of Pd3Ag: Successful
+Status of Zn3Sn: Successful
+Status of Cu3Tc: Successful
+Status of Os3Pb: Successful
+Status of Fe3Rh: Successful
+Status of Ru3Os: Successful
+Status of Sc3Co: Successful
+Status of Ga3In: Successful
+Status of Ir3Al: Successful
+Status of In3Co: Successful
+Status of Ga3Cr: Successful
+Status of Cr3Zn: Successful
+Status of Mn3Ti: Successful
+Status of Hg3Ru: Successful
+Status of La3Cu: Successful
+Status of Tc3Nb: Successful
+Status of Os3Cr: Successful
+Status of Cr3Tc: Successful
+Status of Co3Pd: Successful
+Status of Tc3Au: Successful
+Status of W3Re : Successful
+Status of Tc3Fe: Successful
+Status of Rh3Os: Successful
+Status of Ti3Co: Successful
+Status of Zn3Ga: Successful
+Status of Zr3Au: Successful
+Status of Pt3Ru: Successful
+Status of Mn3Zr: Successful
+Status of Sn3Ir: Successful
+Status of La3Ru: Successful
+Status of Ru3Au: Successful
+Status of Mo3Tc: Successful
+Status of Cr3Os: Successful
+Status of Sc3W : Successful
+Status of Fe3Co: Successful
+Status of V3Rh : Successful
+Status of Ir3Pd: Successful
+Status of Y3Sn : Successful
+Status of Os3Pd: Successful
+Status of Rh3Y : Successful
+Status of W3La : Successful
+Status of Tl3V : Successful
+Status of Tc3La: Successful
+Status of Ir3Ta: Successful
+Status of Cu3Ru: Successful
+Status of Hg3Pb: Successful
+Status of Ga3Ni: Successful
+Status of Zn3Ru: Successful
+Status of Au3Rh: Successful
+Status of Sn3Ga: Successful
+Status of Ru3Pb: Successful
+Status of Pb3Sn: Successful
+Status of Zr3Ti: Successful
+Status of Pt3Al: Successful
+Status of Ag3Zn: Successful
+Status of Ga3Rh: Successful
+Status of V3Pb : Successful
+Status of Pt3Rh: Successful
+Status of Zn3Pt: Successful
+Status of Os3Hf: Successful
+Status of Ta3Ru: Successful
+Status of Hg3Sn: Successful
+Status of Ir3Au: Successful
+Status of Ga3Co: Successful
+Status of Tl3Ga: Successful
+Status of W3Ta : Successful
+Status of Al3W : Successful
+Status of Sc3Ni: Successful
+Status of Tc3W : Successful
+Status of Pb3Ti: Successful
+Status of Fe3W : Successful
+Status of Co3Fe: Successful
+Status of Y3Cd : Successful
+Status of V3Fe : Successful
+Status of Ru3In: Successful
+Status of Ni3Ru: Successful
+Status of Ti3Ta: Successful
+Status of Ta3Re: Successful
+Status of Ru3Rh: Successful
+Status of Ti3V : Successful
+Status of Au3Ir: Successful
+Status of Zn3Pb: Successful
+Status of Pd3Y : Successful
+Status of Pb3Rh: Successful
+Status of Ir3Fe: Successful
+Status of Sn3La: Successful
+Status of Fe3Al: Successful
+Status of Pt3Pb: Successful
+Status of Nb3Ga: Successful
+Status of La3Re: Successful
+Status of La3Au: Successful
+Status of Sn3Ag: Successful
+Status of Cu3Ta: Successful
+Status of Y3W  : Successful
+Status of Hf3Tl: Successful
+Status of Ta3Au: Successful
+Status of Mo3Pb: Successful
+Status of Sn3Zr: Successful
+Status of Zr3Cd: Successful
+Status of Ti3Sn: Successful
+Status of Ni3Re: Successful
+Status of V3Mo : Successful
+Status of La3Ga: Successful
+Status of Y3Au : Successful
+Status of Pd3Cd: Successful
+Status of Os3Sc: Successful
+Status of Sn3Pb: Successful
+Status of Tc3Ni: Successful
+Status of V3La : Successful
+Status of Ni3Ir: Successful
+Status of Pt3Sc: Successful
+Status of V3Zn : Successful
+Status of Zn3Hg: Successful
+Status of La3Sc: Successful
+Status of Zr3Rh: Successful
+Status of Y3Nb : Successful
+Status of Ir3Tc: Successful
+Status of Mn3Hf: Successful
+Status of Ni3Sc: Successful
+Status of Pt3Ir: Successful
+Status of In3V : Successful
+Status of Ru3Mn: Successful
+Status of Au3Al: Successful
+Status of Ru3Re: Successful
+Status of Hg3Ir: Successful
+Status of Re3Tc: Successful
+Status of Pt3Ga: Successful
+Status of Al3Os: Successful
+Status of Rh3Ni: Successful
+Status of Al3Co: Successful
+Status of Ru3La: Successful
+Status of Y3Ga : Successful
+Status of V3Zr : Successful
+Status of Sc3V : Successful
+Status of Sc3Tc: Successful
+Status of Rh3Ti: Successful
+Status of Co3Mn: Successful
+Status of Cu3Zn: Successful
+Status of Pb3Hg: Successful
+Status of V3Tl : Successful
+Status of Nb3Tl: Successful
+Status of Cu3Mo: Successful
+Status of Sn3Hf: Successful
+Status of V3Cd : Successful
+Status of Re3V : Successful
+Status of Y3Ti : Successful
+Status of Zn3Ir: Successful
+Status of Ta3Fe: Successful
+Status of Cu3In: Successful
+Status of Ru3Co: Successful
+Status of Y3Mn : Successful
+Status of Ti3Tc: Successful
+Status of Ag3Pb: Successful
+Status of Ta3W : Successful
+Status of Tc3Cd: Successful
+Status of Sc3Pb: Successful
+Status of Mn3Pb: Successful
+Status of Re3Fe: Successful
+Status of Zn3Hf: Successful
+Status of Nb3Os: Successful
+Status of Y3Ag : Successful
+Status of Au3Pd: Successful
+Status of Cu3La: Successful
+Status of Pb3Ag: Successful
+Status of Sn3Ti: Successful
+Status of Tl3Hg: Successful
+Status of Ru3Ga: Successful
+Status of Hg3Ga: Successful
+Status of La3Os: Successful
+Status of Cd3Tc: Successful
+Status of Mn3Mo: Successful
+Status of Tl3Y : Successful
+Status of Pt3Tl: Successful
+Status of Re3Sc: Successful
+Status of Ga3Ta: Successful
+Status of Cr3Hg: Successful
+Status of Mo3Ni: Successful
+Status of Pb3Ga: Successful
+Status of Ti3Hg: Successful
+Status of Mo3Ga: Successful
+Status of Y3Cu : Successful
+Status of Sn3Mn: Successful
+Status of Tc3Hg: Successful
+Status of Ru3Zn: Successful
+Status of Fe3Cd: Successful
+Status of Nb3Co: Successful
+Status of Fe3Y : Successful
+Status of Os3Pt: Successful
+Status of W3Y  : Successful
+Status of Co3Tl: Successful
+Status of Nb3Zn: Successful
+Status of Co3Sc: Successful
+Status of Cd3Ir: Successful
+Status of Al3Hf: Successful
+Status of Ga3Os: Successful
+Status of Mn3Cu: Successful
+Status of Ga3Zr: Successful
+Status of Ta3Cd: Successful
+Status of Ga3Al: Successful
+Status of La3Rh: Successful
+Status of Nb3Au: Successful
+Status of Au3Sn: Successful
+Status of Cu3Mn: Successful
+Status of Cd3Os: Successful
+Status of Os3V : Successful
+Status of Ta3In: Successful
+Status of Os3Ni: Successful
+Status of Au3In: Successful
+Status of Hf3Ti: Successful
+Status of V3Re : Successful
+Status of In3Fe: Successful
+Status of Nb3Rh: Successful
+Status of Ir3Zn: Successful
+Status of Au3Sc: Successful
+Status of W3Ir : Successful
+Status of Cd3Re: Successful
+Status of Mn3Os: Successful
+Status of Pb3Pt: Successful
+Status of V3Ga : Successful
+Status of Au3Hf: Successful
+Status of Cr3Hf: Successful
+Status of Al3Hg: Successful
+Status of In3Al: Successful
+Status of Sc3Rh: Successful
+Status of Pd3Cr: Successful
+Status of Ta3Zn: Successful
+Status of Sn3Tl: Successful
+Status of Ta3Zr: Successful
+Status of In3Pt: Successful
+Status of Hg3Co: Successful
+Status of Ta3Cr: Successful
+Status of Sn3Pt: Successful
+Status of Co3Cd: Successful
+Status of Zr3Tc: Successful
+Status of Pb3Mo: Successful
+Status of Sn3Re: Successful
+Status of Ta3Ag: Successful
+Status of Cd3Cr: Successful
+Status of Tc3Zn: Successful
+Status of Cr3In: Successful
+Status of Cr3Pb: Successful
+Status of Ir3La: Successful
+Status of Pb3Cd: Successful
+Status of Au3Co: Successful
+Status of Ga3Tc: Successful
+Status of Mo3Hg: Successful
+Status of Ni3Cu: Successful
+Status of W3Hg : Successful
+Status of Ni3Pb: Successful
+Status of Hf3Au: Successful
+Status of Au3Ag: Successful
+Status of V3Au : Successful
+Status of Ga3Zn: Successful
+Status of V3Ta : Successful
+Status of Ta3Pt: Successful
+Status of Ni3Hf: Successful
+Status of Nb3Fe: Successful
+Status of Os3Zr: Successful
+Status of Tl3Co: Successful
+Status of Sc3Au: Successful
+Status of Hg3Mn: Successful
+Status of In3Ti: Successful
+Status of Sc3Ag: Successful
+Status of Cr3Cu: Successful
+Status of Sc3Pt: Successful
+Status of Fe3Nb: Successful
+Status of Al3Au: Successful
+Status of Zn3Sc: Successful
+Status of Cu3Co: Successful
+Status of Ga3La: Successful
+Status of Tc3Al: Successful
+Status of V3Y  : Successful
+Status of Sc3Sn: Successful
+Status of Zr3Hf: Successful
+Status of Rh3Mo: Successful
+Status of Pb3Tc: Successful
+Status of Pb3Zn: Successful
+Status of Pt3Au: Successful
+Status of Au3Fe: Successful
+Status of Cd3Mo: Successful
+Status of Cu3Ir: Successful
+Status of Ag3Re: Successful
+Status of Cu3Ti: Successful
+Status of Pb3Sc: Successful
+Status of Mo3La: Successful
+Status of Ti3Cd: Successful
+Status of Sc3Zn: Successful
+Status of Re3W : Successful
+Status of Re3Pd: Successful
+Status of Sc3Al: Successful
+Status of Zn3Ta: Successful
+Status of Ti3Pb: Successful
+Status of Pd3Mo: Successful
+Status of Y3Ir : Successful
+Status of Y3Fe : Successful
+Status of Ag3Ga: Successful
+Status of La3Zr: Successful
+Status of Cd3Pb: Successful
+Status of Y3Al : Successful
+Status of Tl3Ti: Successful
+Status of Re3Ag: Successful
+Status of W3Hf : Successful
+Status of Zr3Mo: Successful
+Status of Sn3Fe: Successful
+Status of Tc3Co: Successful
+Status of Hg3W : Successful
+Status of In3W : Successful
+Status of Sc3Ta: Successful
+Status of Ni3W : Successful
+Status of Hf3Os: Successful
+Status of Os3Ga: Successful
+Status of Pb3Os: Successful
+Status of La3Hf: Successful
+Status of Rh3Pb: Successful
+Status of Co3V : Successful
+Status of Ag3W : Successful
+Status of Ti3Cr: Successful
+Status of Au3Mn: Successful
+Status of Sc3Tl: Successful
+Status of Cd3Co: Successful
+Status of Tc3Sn: Successful
+Status of Nb3Re: Successful
+Status of V3Ru : Successful
+Status of Cd3La: Successful
+Status of Ta3Y : Successful
+Status of Co3Hf: Successful
+Status of Co3Ru: Successful
+Status of V3Sn : Successful
+Status of Ni3Pt: Successful
+Status of Rh3Re: Successful
+Status of Mo3Al: Successful
+Status of Ni3Nb: Successful
+Status of Ni3Co: Successful
+Status of Au3La: Successful
+Status of Mn3Co: Successful
+Status of Zn3V : Successful
+Status of Sn3Os: Successful
+Status of Cu3Pt: Successful
+Status of Pt3Sn: Successful
+Status of Ti3Sc: Successful
+Status of Sn3Cu: Successful
+Status of Hf3Tc: Successful
+Status of Ti3Zr: Successful
+Status of Ti3Nb: Successful
+Status of Re3Ti: Successful
+Status of Hf3Hg: Successful
+Status of Ga3Mn: Successful
+Status of W3Sc : Successful
+Status of La3Ag: Successful
+Status of Y3Pt : Successful
+Status of Zn3Nb: Successful
+Status of Co3Ga: Successful
+Status of Fe3Au: Successful
+Status of Sc3In: Successful
+Status of Hf3Fe: Successful
+Status of W3Fe : Successful
+Status of Re3Cd: Successful
+Status of W3Mo : Successful
+Status of Rh3Ru: Successful
+Status of La3V : Successful
+Status of Co3Y : Successful
+Status of In3Au: Successful
+Status of Sn3Rh: Successful
+Status of W3Ni : Successful
+Status of W3Mn : Successful
+Status of Sc3Mo: Successful
+Status of Cr3Rh: Successful
+Status of Ga3Tl: Successful
+Status of Cd3Tl: Successful
+Status of Tc3Hf: Successful
+Status of Ru3Ta: Successful
+Status of Zr3Cu: Successful
+Status of Hg3Pt: Successful
+Status of La3Mn: Successful
+Status of Ga3Nb: Successful
+Status of La3W : Successful
+Status of Re3Os: Successful
+Status of Pt3Zr: Successful
+Status of Ni3V : Successful
+Status of Tc3Mn: Successful
+Status of Zn3La: Successful
+Status of Au3Tl: Successful
+Status of Zr3Pd: Successful
+Status of Pd3V : Successful
+Status of Ta3Ni: Successful
+Status of Cd3Rh: Successful
+Status of Nb3W : Successful
+Status of Ta3Hg: Successful
+Status of Pt3Ta: Successful
+Status of Pt3Ag: Successful
+Status of Pt3Cu: Successful
+Status of Zn3Tc: Successful
+Status of Co3Ti: Successful
+Status of Fe3V : Successful
+Status of Cd3Cu: Successful
+Status of Mn3Pd: Successful
+Status of Re3Pt: Successful
+Status of Sc3Re: Successful
+Status of Au3Re: Successful
+Status of Os3Tl: Successful
+Status of Nb3Ru: Successful
+Status of Nb3Tc: Successful
+Status of Cd3Pd: Successful
+Status of Sn3Ru: Successful
+Status of W3Ru : Successful
+Status of Pt3Os: Successful
+Status of Mo3Cu: Successful
+Status of Ti3W : Successful
+Status of Rh3Au: Successful
+Status of Ni3Tc: Successful
+Status of Cd3Ti: Successful
+Status of Al3Zr: Successful
+Status of Co3In: Successful
+Status of Rh3Tl: Successful
+Status of Sc3Y : Successful
+Status of Ag3Ti: Successful
+Status of Nb3Ir: Successful
+Status of Ti3Tl: Successful
+Status of Ir3Rh: Successful
+Status of Zn3Cr: Successful
+Status of In3Sc: Successful
+Status of Ni3Ag: Successful
+Status of Ru3Nb: Successful
+Status of Mo3Sn: Successful
+Status of Re3Pb: Successful
+Status of Ti3Ru: Successful
+Status of Fe3Ir: Successful
+Status of Zn3Co: Successful
+Status of La3Tl: Successful
+Status of Ni3Au: Successful
+Status of Zr3Al: Successful
+Status of Os3Mn: Successful
+Status of Pt3Ti: Successful
+Status of Re3Ni: Successful
+Status of Ni3La: Successful
+Status of V3In : Successful
+Status of Cr3Nb: Successful
+Status of Ag3Y : Successful
+Status of W3V  : Successful
+Status of Hg3Tl: Successful
+Status of Al3Cu: Successful
+Status of Y3Pb : Successful
+Status of Au3Ga: Successful
+Status of W3In : Successful
+Status of Ni3Os: Successful
+Status of Al3Y : Successful
+Status of Zr3Fe: Successful
+Status of Sn3W : Successful
+Status of Ta3Tl: Successful
+Status of Zr3Os: Successful
+Status of Ti3Rh: Successful
+Status of Cr3Tl: Successful
+Status of Pb3Co: Successful
+Status of Mn3Tc: Successful
+Status of Hf3Y : Successful
+Status of Os3Zn: Successful
+Status of Ag3Co: Successful
+Status of Y3Re : Successful
+Status of Pt3Mn: Successful
+Status of Cd3Nb: Successful
+Status of Pb3La: Successful
+Status of Cd3Zr: Successful
+Status of Cd3In: Successful
+Status of Rh3Ag: Successful
+Status of Ag3Ta: Successful
+Status of Mn3La: Successful
+Status of Pb3Pd: Successful
+Status of Sn3Cd: Successful
+Status of Cu3Nb: Successful
+Status of Zr3Ir: Successful
+Status of Tl3Tc: Successful
+Status of Ir3Ni: Successful
+Status of Zn3Cu: Successful
+Status of Ga3Mo: Successful
+Status of Tc3Y : Successful
+Status of V3Mn : Successful
+Status of Pt3Nb: Successful
+Status of Au3Pb: Successful
+Status of Zr3V : Successful
+Status of Ta3La: Successful
+Status of Ir3Mo: Successful
+Status of Nb3Pt: Successful
+Status of Fe3Mo: Successful
+Status of Nb3La: Successful
+Status of Ag3Cr: Successful
+Status of Al3Ta: Successful
+Status of La3Mo: Successful
+Status of Pt3Y : Successful
+Status of Pd3Sn: Successful
+Status of Cu3Fe: Successful
+Status of Co3Ag: Successful
+Status of Mo3Cr: Successful
+Status of Zn3Ag: Successful
+Status of Ga3Ir: Successful
+Status of Ag3Rh: Successful
+Status of Pb3Nb: Successful
+Status of W3Al : Successful
+Status of Y3Sc : Successful
+Status of Cu3Y : Successful
+Status of Nb3Y : Successful
+Status of Hg3Mo: Successful
+Status of Pd3Ir: Successful
+Status of Mn3Ag: Successful
+Status of Sn3Zn: Successful
+Status of Nb3Cr: Successful
+Status of La3Zn: Successful
+Status of Ni3In: Successful
+Status of Pd3Mn: Successful
+Status of Ga3Ru: Successful
+Status of Ag3Zr: Successful
+Status of Re3Zn: Successful
+Status of Tc3Pb: Successful
+Status of Hg3Hf: Successful
+Status of Mn3Zn: Successful
+Status of Cu3Pb: Successful
+Status of Ni3Zn: Successful
+Status of In3Ir: Successful
+Status of Hg3Sc: Successful
+Status of Os3Au: Successful
+Status of La3Nb: Successful
+Status of Ru3Ir: Successful
+Status of Ir3Hg: Successful
+Status of Pd3Zr: Successful
+Status of Tl3Ir: Successful
+Status of Re3Cr: Successful
+Status of Zr3Cr: Successful
+Status of Ru3Al: Successful
+Status of Ru3V : Successful
+Status of Pd3Ga: Successful
+Status of La3Cr: Successful
+Status of Tc3Mo: Successful
+Status of Mn3In: Successful
+Status of Y3Ru : Successful
+Status of Fe3Zr: Successful
+Status of Hf3Pt: Successful
+Status of Sc3Os: Successful
+Status of In3Tc: Successful
+Status of Ru3Hf: Successful
+Status of Ir3Cu: Successful
+Status of Sc3Ir: Successful
+Status of Ta3Mn: Successful
+Status of Ru3Pd: Successful
+Status of Tl3Cu: Successful
+Status of Hf3In: Successful
+Status of Cr3Ti: Successful
+Status of In3Hf: Successful
+Status of Rh3Pt: Successful
+Status of Ag3Tc: Successful
+Status of Hg3Ni: Successful
+Status of Os3Re: Successful
+Status of Ti3Mo: Successful
+Status of Pt3Co: Successful
+Status of Mo3Cd: Successful
+Status of Tl3Mn: Successful
+Status of W3Ga : Successful
+Status of Re3In: Successful
+Status of La3Sn: Successful
+Status of Pt3V : Successful
+Status of Cu3Ga: Successful
+Status of Ag3Sn: Successful
+Status of Ni3Tl: Successful
+Status of Ru3Tc: Successful
+Status of Pd3Pb: Successful
+Status of W3Cu : Successful
+Status of Re3Tl: Successful
+Status of Cd3W : Successful
+Status of La3Fe: Successful
+Status of Ni3Hg: Successful
+Status of Os3Nb: Successful
+Status of Ru3Cd: Successful
+Status of Ni3Fe: Successful
+Status of Ag3Ir: Successful
+Status of Ti3Ir: Successful
+Status of Ag3Pt: Successful
+Status of Pd3Ta: Successful
+Status of Tl3Pb: Successful
+Status of Sn3Hg: Successful
+Status of Y3Hf : Successful
+Status of Pb3Fe: Successful
+Status of Fe3Ga: Successful
+Status of Zr3In: Successful
+Status of Co3Ni: Successful
+Status of Ir3Os: Successful
+Status of Zr3La: Successful
+Status of Al3Tl: Successful
+Status of Os3Ru: Successful
+Status of Nb3Hg: Successful
+Status of Tl3Sn: Successful
+Status of Ga3Hg: Successful
+Status of Rh3Cu: Successful
+Status of Mn3Tl: Successful
+Status of Au3Cu: Successful
+Status of Rh3Sc: Successful
+Status of Cd3Ga: Successful
+Status of Re3Nb: Successful
+Status of Al3V : Successful
+Status of Hg3Ta: Successful
+Status of Fe3Ni: Successful
+Status of Ta3Mo: Successful
+Status of Y3Zr : Successful
+Status of Zn3Ni: Successful
+Status of Pd3Re: Successful
+Status of Zr3Sc: Successful
+Status of In3Os: Successful
+Status of Hf3Ir: Successful
+Status of Co3Pt: Successful
+Status of Os3Co: Successful
+Status of Cr3Pt: Successful
+Status of Cd3Pt: Successful
+Status of Tl3Zn: Successful
+Status of Hf3Co: Successful
+Status of Os3Y : Successful
+Status of Ga3Pt: Successful
+Status of Sc3Pd: Successful
+Status of Tc3Ag: Successful
+Status of In3Mn: Successful
+Status of Pt3La: Successful
+Status of V3Ti : Successful
+Status of Nb3Cd: Successful
+Status of Cr3Sc: Successful
+Status of Pb3Cr: Successful
+Status of V3Cu : Successful
+Status of In3La: Successful
+Status of Pt3Hf: Successful
+Status of Ta3Cu: Successful
+Status of V3Al : Successful
+Status of La3Pb: Successful
+Status of Pb3Y : Successful
+Status of Ti3In: Successful
+Status of Pb3Re: Successful
+Status of Pb3Tl: Successful
+Status of Y3Ta : Successful
+Status of Ir3Nb: Successful
+Status of Cr3Co: Successful
+Status of Os3Tc: Successful
+Status of Ni3Pd: Successful
+Status of Rh3Nb: Successful
+Status of Fe3In: Successful
+Status of V3Os : Successful
+Status of Ir3Tl: Successful
+Status of La3Y : Successful
+Status of Cd3Au: Successful
+Status of Pt3Pd: Successful
+Status of Pt3Tc: Successful
+Status of Ir3Ru: Successful
+Status of Y3Ni : Successful
+Status of Pb3Ni: Successful
+Status of Ga3Y : Successful
+Status of W3Ag : Successful
+Status of Fe3Ru: Successful
+Status of Cd3Ag: Successful
+Status of Pb3Ir: Successful
+Status of In3Ni: Successful
+Status of Hf3Pd: Successful
+Status of Co3Ir: Successful
+Status of Pt3W : Successful
+Status of La3Ir: Successful
+Status of Cd3Ta: Successful
+Status of Fe3La: Successful
+Status of Fe3Pt: Successful
+Status of Tc3Pt: Successful
+Status of Ta3Ti: Successful
+Status of Sn3In: Successful
+Status of Ni3Sn: Successful
+Status of Sc3Fe: Successful
+Status of Pd3La: Successful
+Status of Cd3V : Successful
+Status of In3Ta: Successful
+Status of Hf3Re: Successful
+Status of Ni3Cr: Successful
+Status of Hg3Nb: Successful
+Status of Mo3Os: Successful
+Status of Ta3Nb: Successful
+Status of Hg3Pd: Successful
+Status of In3Ag: Successful
+Status of W3Zr : Successful
+Status of Sc3Cu: Successful
+Status of Cr3Sn: Successful
+Status of Ag3Ni: Successful
+Status of Sc3Ga: Successful
+Status of W3Ti : Successful
+Status of Cu3Hf: Successful
+Status of Pd3Tl: Successful
+Status of Cu3Cd: Successful
+Status of Mo3Tl: Successful
+Status of Ga3V : Successful
+Status of Rh3Cr: Successful
+Status of Ag3In: Successful
+Status of V3Tc : Successful
+Status of Tl3Au: Successful
+Status of Pd3Al: Successful
+Status of Cr3Cd: Successful
+Status of Pd3Au: Successful
+Status of Pd3Ti: Successful
+Status of Pb3Cu: Successful
+Status of Ga3Ag: Successful
+Status of Sc3Hf: Successful
+Status of Cr3Zr: Successful
+Status of Mo3Nb: Successful
+Status of Ru3Cu: Successful
+Status of In3Mo: Successful
+Status of Ta3Rh: Successful
+Status of Cr3Ir: Successful
+Status of Cr3Ru: Successful
+Status of La3Hg: Successful
+Status of Co3Os: Successful
+Status of Re3Ga: Successful
+Status of Ni3Mn: Successful
+Status of Co3La: Successful
+Status of Pb3Ta: Successful
+Status of Al3Ir: Successful
+Status of V3Ir : Successful
+Status of Mo3Zn: Successful
+Status of Hg3Tc: Successful
+Status of Rh3Ga: Successful
+Status of Nb3Ag: Successful
+Status of Zr3Tl: Successful
+Status of La3Ti: Successful
+Status of Mo3Zr: Successful
+Status of Ir3In: Successful
+Status of Hf3Nb: Successful
+Status of V3Nb : Successful
+Status of Mn3Rh: Successful
+Status of Mo3Hf: Successful
+Status of Hf3Ru: Successful
+Status of Os3Ir: Successful
+Status of Hg3Zr: Successful
+Status of Pd3Ni: Successful
+Status of Co3Rh: Successful
+Status of Mo3V : Successful
+Status of Nb3V : Successful
+Status of Nb3Mo: Successful
+Status of Ir3Sn: Successful
+Status of Nb3Pb: Successful
+Status of Ti3La: Successful
+Status of Y3V  : Successful
+Status of Ti3Au: Successful
+Status of Tc3Rh: Successful
+Status of Au3Tc: Successful
+Status of Ag3Mn: Successful
+Status of Pd3Cu: Successful
+Status of Cd3Sc: Successful
+Status of V3Ag : Successful
+Status of Ni3Cd: Successful
+Status of Cr3Y : Successful
+Status of Ir3V : Successful
+Status of Al3Cd: Successful
+Status of Sn3Sc: Successful
+Status of Tl3Fe: Successful
+Status of W3Nb : Successful
+Status of Re3Y : Successful
+Status of Rh3In: Successful
+Status of Nb3Sc: Successful
+Status of Ru3W : Successful
+Status of Mn3V : Successful
+Status of Cd3Ru: Successful
+Status of Ni3Ga: Successful
+Status of Ir3Re: Successful
+Status of Os3W : Successful
+Status of Al3Cr: Successful
+Status of Hf3Ni: Successful
+Status of Ir3Ga: Successful
+Status of Ti3Ga: Successful
+Status of Ta3Pd: Successful
+Status of Re3Au: Successful
+Status of Re3Ru: Successful
+Status of Mo3Ir: Successful
+Status of Re3Cu: Successful
+Status of Pd3Sc: Successful
+Status of Re3Zr: Successful
+Status of In3Pb: Successful
+Status of Zr3Ag: Successful
+Status of Cu3Sc: Successful
+Status of Hf3Mn: Successful
+Status of Fe3Ag: Successful
+Status of Ag3Tl: Successful
+Status of Fe3Zn: Successful
+Status of Ru3Ti: Successful
+Status of Fe3Cu: Successful
+Status of Pb3V : Successful
+Status of Hf3Cd: Successful
+Status of Ir3Pt: Successful
+Status of Tl3Nb: Successful
+Status of Ru3Zr: Successful
+Status of Ga3Sc: Successful
+Status of In3Cr: Successful
+Status of Cr3Mn: Successful
+Status of W3Tl : Successful
+Status of Al3Pd: Successful
+Status of Pb3Hf: Successful
+Status of Cu3V : Successful
+Status of Ni3Ta: Successful
+Status of Co3Nb: Successful
+Status of Nb3Zr: Successful
+Status of Y3Zn : Successful
+Status of Al3Sc: Successful
+Status of Au3Nb: Successful
+Status of Hf3Sn: Successful
+Status of Hg3Re: Successful
+Status of Au3Ti: Successful
+Status of Fe3Re: Successful
+Status of Mo3Sc: Successful
+Status of Sn3Tc: Successful
+Status of Mo3Pd: Successful
+Status of Hg3In: Successful
+Status of Ru3Mo: Successful
+Status of Ti3Os: Successful
+Status of Al3La: Successful
+Status of Ir3Y : Successful
+Status of Pd3In: Successful
+Status of Cu3Cr: Successful
+Status of Ga3Cd: Successful
+Status of Y3In : Successful
+Status of Mn3Re: Successful
+Status of Re3Rh: Successful
+Status of Hg3V : Successful
+Status of Hg3Ti: Successful
+Status of V3Cr : Successful
+Status of Os3Cu: Successful
+Status of Hf3Ga: Successful
+Status of Rh3W : Successful
+Status of Ga3Sn: Successful
+Status of Co3Sn: Successful
+Status of Zn3Re: Successful
+Status of Ag3Au: Successful
+Status of Ni3Ti: Successful
+Status of Mn3Ga: Successful
+Status of Ti3Cu: Successful
+Status of Zn3Mn: Successful
+Status of Zn3Os: Successful
+Status of Ir3Zr: Successful
+Status of Au3Zr: Successful
+Status of Ir3W : Successful
+Status of Zn3Al: Successful
+Status of W3Zn : Successful
+Status of Mo3Ru: Successful
+Status of Au3Y : Successful
+Status of Ru3Sc: Successful
+Status of Ag3Hf: Successful
+Status of Mn3Ni: Successful
+Status of Ti3Zn: Successful
+Status of Hf3Zn: Successful
+Status of Tl3W : Successful
+Status of Tc3Tl: Successful
+Status of Mo3Co: Successful
+Status of Hg3Zn: Successful
+Status of Ir3Pb: Successful
+Status of Sc3Cd: Successful
+Status of Sc3La: Successful
+Status of Ag3Pd: Successful
+Status of Rh3V : Successful
+Status of V3Hg : Successful
+Status of Mn3Y : Successful
+Status of V3Ni : Successful
+Status of Ru3Cr: Successful
+Status of Rh3Hg: Successful
+Status of Tc3Ga: Successful
+Status of Mo3Pt: Successful
+Status of Mo3W : Successful
+Status of Sn3Co: Successful
+Status of Au3Cr: Successful
+Status of Cd3Hf: Successful
+Status of Cr3Ni: Successful
+Status of Ti3Y : Successful
+Status of Pb3Mn: Successful
+Status of Al3Ga: Successful
+Status of Ir3Cd: Successful
+Status of Co3Zr: Successful
+Status of Pt3Cr: Successful
+Status of Pt3Cd: Successful
+Status of Hg3Cr: Successful
+Status of Cr3Al: Successful
+Status of Zn3Ti: Successful
+Status of Pt3Fe: Successful
+Status of Fe3Pb: Successful
+Status of Os3Rh: Successful
+Status of Re3Ir: Successful
+Status of Sn3Pd: Successful
+Status of Tl3Ag: Successful
+Status of Tc3Pd: Successful
+Status of Ga3Au: Successful
+Status of Tl3Sc: Successful
+Status of Hg3Os: Successful
+Status of Co3Au: Successful
+Status of La3Ta: Successful
+Status of Tc3Sc: Successful
+Status of Pt3Mo: Successful
+Status of Pd3Rh: Successful
+Status of Sc3Ti: Successful
+Status of Hf3Al: Successful
+Status of Ru3Pt: Successful
+Status of Cr3V : Successful
+Status of Re3Mo: Successful
+Status of Tl3Ta: Successful
+Status of Ti3Al: Successful
+Status of Pb3Ru: Successful
+Status of Tl3Os: Successful
+Status of Mn3Au: Successful
+Status of Fe3Hf: Successful
+Status of Ag3Nb: Successful
+Status of Rh3La: Successful
+Status of Rh3Co: Successful
+Status of Tc3In: Successful
+Status of Co3Al: Successful
+Status of Y3Cr : Successful
+Status of Y3Hg : Successful
+Status of Ga3Pd: Successful
+Status of Zn3Mo: Successful
+Status of Zr3Ni: Successful
+Status of Mo3In: Successful
+Status of Cu3Hg: Successful
+Status of Os3Ag: Successful
+Status of Au3Pt: Successful
+Status of Hg3Ag: Successful
+Status of Hf3La: Successful
+Status of Cu3Ag: Successful
+Status of Hf3Rh: Successful
+Status of Al3Tc: Successful
+Status of Pd3Pt: Successful
+Status of Hf3W : Successful
+Status of Re3Hg: Successful
+Status of Y3Co : Successful
+Status of Hg3Y : Successful
+Status of Sc3Hg: Successful
+Status of Al3Pb: Successful
+Status of Sn3Nb: Successful
+Status of La3Al: Successful
+Status of Nb3Pd: Successful
+Status of In3Y : Successful
+Status of W3Tc : Successful
+Status of Ti3Mn: Successful
+Status of Ti3Re: Successful
+Status of Cr3Mo: Successful
+Status of W3Os : Successful
+Status of Os3Ti: Successful
+Status of Cu3Rh: Successful
+Status of Co3Hg: Successful
+Status of Zr3Pb: Successful
+Status of Re3Mn: Successful
+Status of Zr3Re: Successful
+Status of W3Cd : Successful
+Status of Ga3Ti: Successful
+Status of Cr3Au: Successful
+Status of Ta3Pb: Successful
+Status of Ir3Sc: Successful
+Status of Al3Nb: Successful
+Status of Sn3Y : Successful
+Status of Sc3Nb: Successful
+Status of Nb3Mn: Successful
+Status of Ga3Fe: Successful
+Status of Nb3Hf: Successful
+Status of Tc3Re: Successful
+Status of Cu3Al: Successful
+Status of Zn3Rh: Successful
+Status of Co3Pb: Successful
+Status of Re3Co: Successful
+Status of Re3Hf: Successful
+Status of Mo3Re: Successful
+Status of Zn3Cd: Successful
+Status of Cu3Pd: Successful
+Status of Ta3V : Successful
+Status of Ag3Ru: Successful
+Status of Co3Ta: Successful
+Status of W3Cr : Successful
+Status of Hg3Cd: Successful
+Status of Y3Mo : Successful
+Status of Ir3Ti: Successful
+Status of Hg3Fe: Successful
+Status of Rh3Sn: Successful
+Status of Ir3Mn: Successful
+Status of Pb3Al: Successful
+Status of Cd3Ni: Successful
+Status of Cd3Fe: Successful
+Status of Hg3Rh: Successful
+Status of Ga3Hf: Successful
+Status of Pd3Nb: Successful
+Status of Ga3Pb: Successful
+Status of Zn3W : Successful
+Status of Re3La: Successful
+Status of Pd3Ru: Successful
+Status of Pt3Re: Successful
+Status of Cu3Re: Successful
+Status of V3Pd : Successful
+Status of Tc3Ta: Successful
+Status of Ta3Tc: Successful
+Status of Au3V : Successful
+Status of Pd3W : Successful
+Status of Ga3W : Successful
+Status of Mo3Ta: Successful
+Status of V3Hf : Successful
+Status of Ta3Sn: Successful
+Status of Pb3Zr: Successful
+Status of Ag3Mo: Successful
+Status of Al3Pt: Successful
+Status of Rh3Tc: Successful
+Status of Nb3Ta: Successful
+Status of Re3Al: Successful
+Status of In3Zr: Successful
+Status of V3W  : Successful
+Status of In3Re: Successful
+Status of Pt3In: Successful
+Status of Rh3Ta: Successful
+Status of Zr3Nb: Successful
+Status of Zr3Hg: Successful
+Status of Hf3Mo: Successful
+Status of Zn3Fe: Successful
+Status of Ta3Ir: Successful
+Status of Ag3Cu: Successful
+Status of Y3La : Successful
+Status of Tl3La: Successful
+Status of Ta3Sc: Successful
+Status of Au3Ni: Successful
+Status of Co3Zn: Successful
+Status of Ti3Ag: Successful
+Status of Ta3Ga: Successful
+Status of Pd3Fe: Successful
+Status of Nb3Sn: Successful
+Status of Co3Cu: Successful
+Status of Hg3Au: Successful
+Status of In3Sn: Successful
+Status of Zr3Co: Successful
+Status of Hf3Ag: Successful
+Status of Tc3Os: Successful
+Status of Y3Os : Successful
+Status of Mo3Rh: Successful
+Status of Au3Zn: Successful
+Status of Al3Ag: Successful
+Status of Pd3Zn: Successful
+Status of Tc3Ti: Successful
+Status of Hf3Cu: Successful
+Status of Pb3Au: Successful
+Status of Tl3Re: Successful
+Status of Zn3Pd: Successful
+Status of Ru3Fe: Successful
+Status of In3Cu: Successful
+Status of Hg3Cu: Successful
+Status of Hf3Pb: Successful
+Status of Co3Tc: Successful
+Status of Ag3Sc: Successful
+Status of Ru3Sn: Successful
+Status of Mn3Sn: Successful
+Status of Fe3Sc: Successful
+Status of Au3W : Successful
+Status of Au3Cd: Successful
+Status of In3Hg: Successful
+Status of Tl3In: Successful
+Status of La3Tc: Successful
+Status of Os3Sn: Successful
+Status of Mo3Mn: Successful
+Status of W3Sn : Successful
+Status of Mo3Ti: Successful
+Status of Rh3Pd: Successful
+Status of Pd3Co: Successful
+Status of Pt3Ni: Successful
+Status of Cd3Mn: Successful
+Status of Fe3Tl: Successful
+Status of Hf3Cr: Successful
+Status of V3Sc : Successful
+Status of Os3Fe: Successful
+Status of Hg3La: Successful
+Status of Ni3Zr: Successful
+Status of Tc3Zr: Successful
+Status of Ir3Ag: Successful
+Status of Tc3Ir: Successful
+Status of Tl3Rh: Successful
+Status of In3Pd: Successful
+Status of Cr3Ag: Successful
+Status of Mn3W : Successful
+Status of Re3Ta: Successful
+Status of Sn3Ni: Successful
+Status of Sc3Ru: Successful
+Status of In3Tl: Successful
+Status of Mn3Nb: Successful
+Status of Pd3Hg: Successful
+Status of Au3Ta: Successful
+Status of Tl3Hf: Successful
+Status of Rh3Ir: Successful
+Status of Zr3Ta: Successful
+Status of Nb3Ni: Successful
+Status of Cr3Ta: Successful
+Status of Cd3Al: Successful
+Status of Ni3Mo: Successful
+Status of Fe3Pd: Successful
+Status of Re3Sn: Successful
+Status of Sn3Au: Successful
+Status of Zn3Zr: Successful
+Status of Os3La: Successful
+Status of Al3In: Successful
+Status of Rh3Zr: Successful
+Status of W3Pt : Successful
+Status of Ru3Tl: Successful
+Status of Ga3Re: Successful
+Status of Al3Mo: Successful
+Status of Cd3Y : Successful
+Status of Mo3Fe: Successful
+Status of La3Cd: Successful
+Status of Ta3Al: Successful
+Status of Ru3Ag: Successful
+Status of Zn3Au: Successful
+Status of Ag3V : Successful
+Status of Zn3Y : Successful
+Status of Sn3V : Successful
+Status of Al3Fe: Successful
+Status of Co3Re: Successful
+Status of Pb3In: Successful
+Status of In3Ga: Successful
+Status of Zr3Pt: Successful
+Status of Os3Cd: Successful
+Status of Zr3Zn: Successful
+Status of Rh3Hf: Successful
+Status of Ag3Fe: Successful
+Status of Ag3Cd: Successful
+Status of Al3Ti: Successful
+Status of Fe3Ta: Successful
+Status of Au3Hg: Successful
+Status of Zr3Mn: Successful
+Status of Sc3Cr: Successful
+Status of Fe3Hg: Successful
+Status of Mn3Sc: Successful
+Status of W3Au : Successful
+Status of Zr3Ru: Successful
+Status of Mn3Al: Successful
+Status of Ag3La: Successful
+Status of Pt3Zn: Successful
+Status of Zr3W : Successful
+Status of La3Co: Successful
+Status of La3Ni: Successful
+Status of Os3Ta: Successful
+Status of W3Pd : Successful
+Status of Sn3Cr: Successful
+Status of Cr3W : Successful
+Status of Tl3Cd: Successful
+Status of Co3Cr: Successful
+Status of Y3Tl : Successful
+Status of Cr3Fe: Successful
+Status of Hf3V : Successful
+Status of Ir3Co: Successful
+Status of Ti3Pt: Successful
+Status of Zr3Y : Successful
+Status of W3Pb : Successful
+Status of Tl3Ni: Successful
+Status of In3Zn: Successful
+Status of Zr3Ga: Successful
+Status of Al3Re: Successful
+Status of Pd3Hf: Successful
+Status of Rh3Al: Successful
+Status of Hg3Al: Successful
+Status of Cr3Ga: Successful
+Status of Hf3Sc: Successful
+Status of Cd3Zn: Successful
+Status of Ti3Hf: Successful
+Status of V3Co : Successful
+Status of W3Co : Successful
+Status of Tl3Pd: Successful
+Status of Ir3Cr: Successful
+Status of Al3Mn: Successful
+Status of Mn3Ru: Successful
+Status of Nb3In: Successful
+Status of Ru3Hg: Successful
+Status of Fe3Sn: Successful
+Status of Au3Mo: Successful
+Status of Cu3Ni: Successful
+Status of La3Pd: Successful
+Status of In3Rh: Successful
+Status of Nb3Cu: Successful
+Status of Tl3Cr: Successful
+Status of Cr3Re: Successful
+Status of Tl3Mo: Successful
+Status of Nb3Ti: Successful
+Status of Tc3Cu: Successful
+Status of W3Rh : Successful
+Status of Ti3Ni: Successful
+Status of Ti3Pd: Successful
+Status of Os3Mo: Successful
+Status of Hf3Ta: Successful
+Status of Ni3Y : Successful
+Status of Sc3Zr: Successful
+Status of Ta3Co: Successful
+Status of Cd3Sn: Successful
+Status of Tl3Ru: Successful
+Status of Mn3Ta: Successful
+Status of Rh3Mn: Successful
+Status of Rh3Zn: Successful
+Status of In3Nb: Successful
+Status of Rh3Fe: Successful
+Status of Y3Pd : Successful
+Status of Al3Sn: Successful
+Status of Mo3Ag: Successful

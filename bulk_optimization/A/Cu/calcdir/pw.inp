@@ -1,0 +1,47 @@
+&CONTROL
+  calculation='scf',
+  prefix='calc',
+  pseudo_dir='/home/vossj/suncat/psp/gbrv1.5pbe',
+  outdir='.',
+  tprnfor=.true.,
+  disk_io='none',
+  etot_conv_thr=1d0,
+  forc_conv_thr=0.00194469046668d0,
+/
+&SYSTEM
+  ibrav=0,
+  celldm(1)=1.8897261245650618d0,
+  nat=4,
+  ntyp=1,
+  ecutwfc=58.7989180654d0,
+  ecutrho=587.989180654d0,
+  nbnd=58,
+  occupations='smearing',
+  smearing='fd',
+  degauss=0.00734986475817d0,
+  input_dft='BEEF-vdW',
+  ensemble_energies=.true.,
+  print_ensemble_energies=.false.,
+/
+&ELECTRONS
+  diagonalization='david',
+  conv_thr=7.34986475817e-09,
+  mixing_ndim=10,
+  mixing_mode='local-TF',
+  electron_maxstep=500,
+  mixing_beta=0.1d0,
+  conv_thr=7.34986475817e-09,
+/
+CELL_PARAMETERS
+    3.621426429530534d0     0.000000000000000d0     0.000000000000000d0
+    0.000000000000000d0     3.621426429530534d0     0.000000000000000d0
+    0.000000000000000d0     0.000000000000000d0     3.621426429530534d0
+ATOMIC_SPECIES
+Cu1 63.546d0 Cu.UPF
+ATOMIC_POSITIONS {crystal}
+Cu1      0.000000000000000d0     0.000000000000000d0     0.000000000000000d0
+Cu1      0.000000000000000d0     0.500000000000000d0     0.500000000000000d0
+Cu1      0.500000000000000d0     0.000000000000000d0     0.500000000000000d0
+Cu1      0.500000000000000d0     0.500000000000000d0     0.000000000000000d0
+K_POINTS automatic
+12 12 12 0 0 0

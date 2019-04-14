@@ -1,0 +1,19 @@
+#!/bin/bash
+a=0
+c=0
+b=0
+for file in A3B/*; do
+d=$(ls $file/Calculations | wc -l)
+if [ $d -eq 10 ] 
+then
+echo "$file is alright"
+a=$(($((a))+1))
+else
+echo "Problem found in $file"
+c=$(($((c))+1))
+mv $file /scratch/users/mamunm/SHERLOCK/Binary_Alloy/Adsorbate-Surface/A3B/Resubmitted_jobs/.
+fi
+done
+echo "Number of successfully finished job: $a"
+echo "Number of problematic job: $c"
+echo "Number of total job: $(($((a))+$((c))+$((b))))"

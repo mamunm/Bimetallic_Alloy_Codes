@@ -1,0 +1,45 @@
+#!/usr/bin/env python
+from fireworks import LaunchPad, Firework, Workflow, PyTask
+from ase.io import read
+from qescripts.fwio import atoms_to_encode, encode_to_atoms
+from ase.db import connect
+from ase.visualize import view
+
+host = 'suncatls2.slac.stanford.edu'
+username, name, password = netrc().authenticators(host)
+
+launchpad = LaunchPad(
+    host=host,
+    name=name,
+    username=username,
+    password=password)
+
+
+ids = launchpad.get_fw_ids(
+    query={'state': 'READY'}
+)
+
+for i in ids:
+    print('Processing: {0}'.format(i))
+    launch = launchpad.get_fw_by_id(i)
+    atoms = encode_to_atoms(launch.spec['_tasks'][0]['args'][0])[0]
+    
+    try:
+        symbol = launch.name['calc']['symbol']
+        a, b = symbol.split('3')
+    except KeyError:
+        continue
+
+    pol_metal = ['Fe', 'Co', 'Ni', 'Mn']
+
+    if atoms.info['spinpol'] == True:
+        atoms._calc = None
+        print('Changing calc: {0}'.format(symbol))
+        mm = [2.0 if atom.symbol in pol_metal else 0.0 for atom in atoms]
+        atoms.set_initial_magnetic_moments(mm)
+
+        encoding = atoms_to_encode(atoms)
+        print(encoding)
+
+        launchpad.update_spec([i], spec_document={'_tasks.0.args.0': encoding})
+        #launchpad.rerun_fw(i)

@@ -1,0 +1,12 @@
+#!/bin/bash
+for file in */; do
+if grep -q '#SBATCH' $file/*.py &> /dev/null
+then
+echo $file
+cd $file
+sbatch *.py
+cd ..
+else 
+echo "No final traj file found in $file"
+fi
+done
