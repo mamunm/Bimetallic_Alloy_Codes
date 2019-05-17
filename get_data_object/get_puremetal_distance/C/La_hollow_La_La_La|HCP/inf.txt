@@ -1,0 +1,1 @@
+Adsorbate: CSymbol: LaSB symbol: A1Site: hollowSite type: La_La_La|HCPReaction energy: 1.839902482087382ASE ID: b5f0d0fb02f577c01bb218dca8545436

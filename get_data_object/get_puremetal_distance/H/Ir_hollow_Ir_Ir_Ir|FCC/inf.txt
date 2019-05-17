@@ -1,0 +1,1 @@
+Adsorbate: HSymbol: IrSB symbol: A1Site: hollowSite type: Ir_Ir_Ir|FCCReaction energy: -0.15779731845665879ASE ID: fcbda7662d9878b5b3ea22796aafc70d

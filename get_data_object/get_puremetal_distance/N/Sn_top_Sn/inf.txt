@@ -1,0 +1,1 @@
+Adsorbate: NSymbol: SnSB symbol: A1Site: topSite type: SnReaction energy: 3.806758723085295ASE ID: 1c582cad66462980254a597759afba3b

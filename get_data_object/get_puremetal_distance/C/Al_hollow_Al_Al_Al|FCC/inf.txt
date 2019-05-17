@@ -1,0 +1,1 @@
+Adsorbate: CSymbol: AlSB symbol: A1Site: hollowSite type: Al_Al_Al|FCCReaction energy: 2.955746910889957ASE ID: c8c8292db91f2af5b3f82d565080b0a7

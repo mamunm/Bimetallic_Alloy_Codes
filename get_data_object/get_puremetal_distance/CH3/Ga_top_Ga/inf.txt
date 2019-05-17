@@ -1,0 +1,1 @@
+Adsorbate: CH3Symbol: GaSB symbol: A1Site: topSite type: GaReaction energy: 1.053555530314128ASE ID: 16b1b4e8e877dae3db7fe63e852959ba

@@ -1,0 +1,1 @@
+Adsorbate: OSymbol: InSB symbol: A1Site: topSite type: InReaction energy: 2.195566425838308ASE ID: eea40297f5cf926a7dff571868d815d6

@@ -1,0 +1,1 @@
+Adsorbate: CHSymbol: NbSB symbol: A1Site: hollowSite type: Nb_Nb_Nb|FCCReaction energy: 0.22540509013381893ASE ID: b7d08e7bcc9cf37455da6a766e1b63fa

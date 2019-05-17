@@ -1,0 +1,1 @@
+Adsorbate: HSymbol: TcSB symbol: A1Site: bridgeSite type: Tc_Tc|TcReaction energy: -0.36883479785953455ASE ID: 4a2cd96d5e16c613b5c7205c629bf30b

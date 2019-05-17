@@ -1,0 +1,1 @@
+Adsorbate: NHSymbol: AgSB symbol: A1Site: topSite type: AgReaction energy: 3.067950603231111ASE ID: c48104f2370c3cc30deba93c609ca000

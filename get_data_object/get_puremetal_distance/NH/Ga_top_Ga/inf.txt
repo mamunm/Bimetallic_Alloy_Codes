@@ -1,0 +1,1 @@
+Adsorbate: NHSymbol: GaSB symbol: A1Site: topSite type: GaReaction energy: 1.9551841901256921ASE ID: e5b5a14b59455d54318cf7dac3cf11f0

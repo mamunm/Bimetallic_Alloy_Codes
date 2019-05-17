@@ -1,0 +1,1 @@
+Adsorbate: CSymbol: WSB symbol: A1Site: topSite type: WReaction energy: 4.075780532290992ASE ID: 3634ebbacb6e8764f8ba55076503f870

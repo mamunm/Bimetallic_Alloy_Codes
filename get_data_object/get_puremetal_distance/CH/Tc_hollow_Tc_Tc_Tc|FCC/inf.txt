@@ -1,0 +1,1 @@
+Adsorbate: CHSymbol: TcSB symbol: A1Site: hollowSite type: Tc_Tc_Tc|FCCReaction energy: 0.9210262947326839ASE ID: 32d4667cb8bdb88f490f139c22b98fc4

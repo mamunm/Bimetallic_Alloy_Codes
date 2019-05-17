@@ -1,0 +1,1 @@
+Adsorbate: SSymbol: PtSB symbol: A1Site: topSite type: PtReaction energy: 0.1994795802093563ASE ID: 21f86f004665eede733cc8ae3b41e9c6

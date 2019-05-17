@@ -1,0 +1,1 @@
+Adsorbate: OHSymbol: CdSB symbol: A1Site: hollowSite type: Cd_Cd_Cd|FCCReaction energy: 0.2482208829795809ASE ID: b6f06fdad224183e3ed8c4122d60890d

@@ -1,0 +1,1 @@
+Adsorbate: NSymbol: ScSB symbol: A1Site: topSite type: ScReaction energy: 0.9966045529872645ASE ID: 1005052aaa051b5c3f2a6a4fddeac1c6

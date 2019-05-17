@@ -1,0 +1,1 @@
+Adsorbate: OHSymbol: WSB symbol: A1Site: bridgeSite type: W_W|WReaction energy: -1.268856489320683ASE ID: 6d75abccf1f5e800302230d31ae2d436

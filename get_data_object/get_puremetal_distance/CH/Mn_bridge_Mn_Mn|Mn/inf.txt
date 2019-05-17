@@ -1,0 +1,1 @@
+Adsorbate: CHSymbol: MnSB symbol: A1Site: bridgeSite type: Mn_Mn|MnReaction energy: 0.9074033236302341ASE ID: 625b209c022d9d94e2a5e640d2adb308

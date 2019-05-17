@@ -1,0 +1,1 @@
+Adsorbate: CSymbol: NbSB symbol: A1Site: topSite type: NbReaction energy: 4.033442748289417ASE ID: a1be99212990be35f7cbfb8fdd7146b6

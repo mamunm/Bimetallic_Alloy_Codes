@@ -1,0 +1,1 @@
+Adsorbate: HSymbol: ZrSB symbol: A1Site: topSite type: ZrReaction energy: 0.30904295194252995ASE ID: 821dfdd91450dcb1a460db1485d62f07

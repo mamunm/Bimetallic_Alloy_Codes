@@ -1,0 +1,1 @@
+Adsorbate: CHSymbol: InSB symbol: A1Site: hollowSite type: In_In_In|HCPReaction energy: 3.428359396029947ASE ID: e95487ab96d1e6294a833f9f68192fae

@@ -1,0 +1,1 @@
+Adsorbate: OSymbol: FeSB symbol: A1Site: topSite type: FeReaction energy: -0.13855900606375826ASE ID: a5cfa6fe598a0a8a621f451eb77fd686

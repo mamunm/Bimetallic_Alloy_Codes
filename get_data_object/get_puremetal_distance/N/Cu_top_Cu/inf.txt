@@ -1,0 +1,1 @@
+Adsorbate: NSymbol: CuSB symbol: A1Site: topSite type: CuReaction energy: 3.656762772492584ASE ID: 1f96097652910535cf9dd89ece2fe321

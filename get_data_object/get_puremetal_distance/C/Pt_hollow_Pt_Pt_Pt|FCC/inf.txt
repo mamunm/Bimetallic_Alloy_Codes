@@ -1,0 +1,1 @@
+Adsorbate: CSymbol: PtSB symbol: A1Site: hollowSite type: Pt_Pt_Pt|FCCReaction energy: 2.222465831187037ASE ID: 90df36c44fc4d94bad4eea89dbcfae8f

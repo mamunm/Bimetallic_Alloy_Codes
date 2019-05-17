@@ -1,0 +1,1 @@
+Adsorbate: CSymbol: MoSB symbol: A1Site: topSite type: MoReaction energy: 4.001872916990578ASE ID: 10782c046e649e1e098e05116900b60c

@@ -1,0 +1,1 @@
+Adsorbate: HSymbol: CuSB symbol: A1Site: bridgeSite type: Cu_Cu|CuReaction energy: 0.08455298064748717ASE ID: d9c51ecc8ba1d3456f3f8a53c49aa22a

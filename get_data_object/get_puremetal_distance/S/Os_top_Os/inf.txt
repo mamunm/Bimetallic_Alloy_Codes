@@ -1,0 +1,1 @@
+Adsorbate: SSymbol: OsSB symbol: A1Site: topSite type: OsReaction energy: -0.39879534779169035ASE ID: 609595467bca753114b6ea41b7350882

@@ -1,0 +1,1 @@
+Adsorbate: SHSymbol: PdSB symbol: A1Site: bridgeSite type: Pd_Pd|PdReaction energy: -0.9767707193485649ASE ID: d98bdf55941bc334caa13f67407b071f

@@ -1,0 +1,1 @@
+Adsorbate: OHSymbol: AlSB symbol: A1Site: bridgeSite type: Al_Al|AlReaction energy: -0.7638851788900638ASE ID: 240b10312d3faa13f7c372d3290fddd1

@@ -1,0 +1,1 @@
+Adsorbate: SHSymbol: GaSB symbol: A1Site: hollowSite type: Ga_Ga_Ga|HCPReaction energy: 0.14315596124754393ASE ID: cb4c088ae68e4b4350f692f74d8978e8

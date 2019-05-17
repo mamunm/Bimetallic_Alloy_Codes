@@ -1,0 +1,1 @@
+Adsorbate: SSymbol: TlSB symbol: A1Site: topSite type: TlReaction energy: 0.2037206104069469ASE ID: 74e7891279feae81f1cc127073573d5b

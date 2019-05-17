@@ -1,0 +1,1 @@
+Adsorbate: OSymbol: ZnSB symbol: A1Site: hollowSite type: Zn_Zn_Zn|HCPReaction energy: 0.07872457443210124ASE ID: 3fbfab5dd5bb185e2e75166958c208d1

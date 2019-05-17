@@ -1,0 +1,1 @@
+Adsorbate: CSymbol: CoSB symbol: A1Site: topSite type: CoReaction energy: 3.9998462131889028ASE ID: 76add402ba0adef8da60fbdac96d5ac0

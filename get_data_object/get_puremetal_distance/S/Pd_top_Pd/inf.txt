@@ -1,0 +1,1 @@
+Adsorbate: SSymbol: PdSB symbol: A1Site: topSite type: PdReaction energy: 0.1489590610036089ASE ID: 6219b61fc4e754ea61e99bfe555fa895

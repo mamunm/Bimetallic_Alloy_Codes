@@ -1,0 +1,1 @@
+Adsorbate: NHSymbol: InSB symbol: A1Site: topSite type: InReaction energy: 2.477836369328543ASE ID: b4010bdd5a458876f9866e284e0882a8

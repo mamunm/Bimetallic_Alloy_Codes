@@ -1,0 +1,1 @@
+Adsorbate: SHSymbol: MnSB symbol: A1Site: topSite type: MnReaction energy: -0.5055713214522939ASE ID: 812dd69fbed29153af5d39fdbbd9c7c8

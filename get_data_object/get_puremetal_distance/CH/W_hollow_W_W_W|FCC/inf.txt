@@ -1,0 +1,1 @@
+Adsorbate: CHSymbol: WSB symbol: A1Site: hollowSite type: W_W_W|FCCReaction energy: 0.0013673720332292305ASE ID: b9094edfced06dbcb700f938abbf7c8f

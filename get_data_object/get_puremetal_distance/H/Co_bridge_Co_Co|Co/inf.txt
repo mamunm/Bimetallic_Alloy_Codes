@@ -1,0 +1,1 @@
+Adsorbate: HSymbol: CoSB symbol: A1Site: bridgeSite type: Co_Co|CoReaction energy: -0.1082936886586765ASE ID: b562e1dbea2e950eaf8a6a4c73e84acc

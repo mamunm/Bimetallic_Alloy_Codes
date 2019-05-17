@@ -1,0 +1,1 @@
+Adsorbate: CH3Symbol: YSB symbol: A1Site: hollowSite type: Y_Y_Y|HCPReaction energy: -0.042168801284702795ASE ID: f6870834ea6cedaaf61e4f985514a866

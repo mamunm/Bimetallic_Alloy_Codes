@@ -1,0 +1,1 @@
+Adsorbate: OSymbol: BiSB symbol: A1Site: bridgeSite type: Bi_Bi|BiReaction energy: 0.9366822284389968ASE ID: fce0014a6208176ba7510f765854e496

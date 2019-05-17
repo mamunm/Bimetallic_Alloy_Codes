@@ -1,0 +1,1 @@
+Adsorbate: OSymbol: InSB symbol: A1Site: hollowSite type: In_In_In|FCCReaction energy: 0.5441346143377928ASE ID: f88f7341009523797e6b01cbe6efdb04

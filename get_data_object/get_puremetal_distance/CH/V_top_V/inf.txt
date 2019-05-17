@@ -1,0 +1,1 @@
+Adsorbate: CHSymbol: VSB symbol: A1Site: topSite type: VReaction energy: 1.8000337230314756ASE ID: dd790107cf61fd5e06eb4d7477e7a1ce

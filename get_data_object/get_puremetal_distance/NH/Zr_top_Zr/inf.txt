@@ -1,0 +1,1 @@
+Adsorbate: NHSymbol: ZrSB symbol: A1Site: topSite type: ZrReaction energy: -0.6919233136713956ASE ID: 307a9739743a6f3f04afa1a5def8c151

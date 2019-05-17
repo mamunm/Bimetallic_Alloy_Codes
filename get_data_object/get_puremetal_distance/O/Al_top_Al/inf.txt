@@ -1,0 +1,1 @@
+Adsorbate: OSymbol: AlSB symbol: A1Site: topSite type: AlReaction energy: 0.9039476139178646ASE ID: 4db3f8dcf107a35ba536d1d9d169aedd

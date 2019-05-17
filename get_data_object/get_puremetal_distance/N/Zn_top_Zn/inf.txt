@@ -1,0 +1,1 @@
+Adsorbate: NSymbol: ZnSB symbol: A1Site: topSite type: ZnReaction energy: 3.394412922576521ASE ID: 3d4f230252f8d4b6106b87d2e9b77e9f

@@ -1,0 +1,1 @@
+Adsorbate: NHSymbol: BiSB symbol: A1Site: hollowSite type: Bi_Bi_Bi|HCPReaction energy: 0.7716030076289826ASE ID: 7217b4e5e9ca4da1b26995892a6bea96

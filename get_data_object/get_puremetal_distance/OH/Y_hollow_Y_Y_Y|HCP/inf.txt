@@ -1,0 +1,1 @@
+Adsorbate: OHSymbol: YSB symbol: A1Site: hollowSite type: Y_Y_Y|HCPReaction energy: -2.5678463209197844ASE ID: 66d43c49b0e0068a53565b7a75cd2517

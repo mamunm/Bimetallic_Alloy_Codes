@@ -1,0 +1,1 @@
+Adsorbate: CH2Symbol: AlSB symbol: A1Site: bridgeSite type: Al_Al|AlReaction energy: 1.3018224005939487ASE ID: 7c75690e2fdc8e627250d17b6f5d20d7

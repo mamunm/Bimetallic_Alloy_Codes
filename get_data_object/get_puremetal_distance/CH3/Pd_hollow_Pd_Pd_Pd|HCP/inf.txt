@@ -1,0 +1,1 @@
+Adsorbate: CH3Symbol: PdSB symbol: A1Site: hollowSite type: Pd_Pd_Pd|HCPReaction energy: 1.4344890536195578ASE ID: 3f5abbbe5015d53a57687813ea43c115

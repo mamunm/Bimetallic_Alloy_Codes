@@ -1,0 +1,1 @@
+Adsorbate: CH3Symbol: CuSB symbol: A1Site: topSite type: CuReaction energy: 1.1693388802160314ASE ID: 3c2ba19c6712dc1c37149e14b56b702b

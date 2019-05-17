@@ -1,0 +1,1 @@
+Adsorbate: SHSymbol: GaSB symbol: A1Site: topSite type: GaReaction energy: 0.6441176742456491ASE ID: 6c7b76b98130213665b18dc6cc7ddbb7

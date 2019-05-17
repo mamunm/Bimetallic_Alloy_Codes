@@ -1,0 +1,1 @@
+Adsorbate: HSymbol: MoSB symbol: A1Site: hollowSite type: Mo_Mo_Mo|FCCReaction energy: -0.7747315004589552ASE ID: 5044299184b10cc00d4968e7b36d8d52

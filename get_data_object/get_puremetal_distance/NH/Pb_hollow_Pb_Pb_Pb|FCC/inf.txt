@@ -1,0 +1,1 @@
+Adsorbate: NHSymbol: PbSB symbol: A1Site: hollowSite type: Pb_Pb_Pb|FCCReaction energy: 0.8589442028269332ASE ID: f3c23fd465e2fca456c2461b73c7cf99

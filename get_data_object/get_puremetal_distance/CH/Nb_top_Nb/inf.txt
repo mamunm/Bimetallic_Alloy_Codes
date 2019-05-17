@@ -1,0 +1,1 @@
+Adsorbate: CHSymbol: NbSB symbol: A1Site: topSite type: NbReaction energy: 2.2767447868336887ASE ID: e1bd55e1f29e9a582317cbabe35adc17

@@ -1,0 +1,1 @@
+Adsorbate: CSymbol: LaSB symbol: A1Site: topSite type: LaReaction energy: 4.9724650196885705ASE ID: 1ef177c189be82a2e27918638d2828ab

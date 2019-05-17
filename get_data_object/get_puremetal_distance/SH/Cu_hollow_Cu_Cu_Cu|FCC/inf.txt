@@ -1,0 +1,1 @@
+Adsorbate: SHSymbol: CuSB symbol: A1Site: hollowSite type: Cu_Cu_Cu|FCCReaction energy: -0.40467559175783663ASE ID: ff5452e328202bba59f4e30851c0e2be

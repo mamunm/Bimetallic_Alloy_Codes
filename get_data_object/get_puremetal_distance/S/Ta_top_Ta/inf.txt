@@ -1,0 +1,1 @@
+Adsorbate: SSymbol: TaSB symbol: A1Site: topSite type: TaReaction energy: -1.651428954297387ASE ID: 547b8146ced60510d141c74f0b68566d

@@ -1,0 +1,1 @@
+Adsorbate: CH2Symbol: PdSB symbol: A1Site: bridgeSite type: Pd_Pd|PdReaction energy: 1.5560180872735714ASE ID: baf8746d73a9e97870aa009877793a46

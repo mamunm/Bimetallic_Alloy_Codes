@@ -1,0 +1,1 @@
+Adsorbate: CSymbol: AgSB symbol: A1Site: topSite type: AgReaction energy: 6.984898423889717ASE ID: de37c9f6215ccb1a7eb8a072f121f50a

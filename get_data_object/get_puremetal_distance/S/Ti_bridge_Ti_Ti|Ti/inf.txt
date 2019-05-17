@@ -1,0 +1,1 @@
+Adsorbate: SSymbol: TiSB symbol: A1Site: bridgeSite type: Ti_Ti|TiReaction energy: -3.137256365192968ASE ID: 2aa73a20eeefe05164ec77dd45f3c256

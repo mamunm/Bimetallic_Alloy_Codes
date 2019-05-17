@@ -1,0 +1,1 @@
+Adsorbate: SSymbol: RuSB symbol: A1Site: hollowSite type: Ru_Ru_Ru|FCCReaction energy: -2.042536541892275ASE ID: 9f9dd3d7ccba62efcd01ef431f23ceff

@@ -1,0 +1,1 @@
+Adsorbate: CH2Symbol: ZrSB symbol: A1Site: topSite type: ZrReaction energy: 1.8305235343732988ASE ID: 51241ae6d6b3d7017481b396b80c68e5

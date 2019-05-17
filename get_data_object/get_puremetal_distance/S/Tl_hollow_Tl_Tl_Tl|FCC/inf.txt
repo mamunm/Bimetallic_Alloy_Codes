@@ -1,0 +1,1 @@
+Adsorbate: SSymbol: TlSB symbol: A1Site: hollowSite type: Tl_Tl_Tl|FCCReaction energy: 0.000678651904365779ASE ID: b49edce0e159a9378c3e93fa38a3f907

@@ -1,0 +1,1 @@
+Adsorbate: OHSymbol: CoSB symbol: A1Site: hollowSite type: Co_Co_Co|HCPReaction energy: -0.24384828582253704ASE ID: 23cd4fac82d05490d5ebc3781c50b483

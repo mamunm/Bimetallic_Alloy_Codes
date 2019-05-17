@@ -1,0 +1,1 @@
+Adsorbate: CHSymbol: AuSB symbol: A1Site: topSite type: AuReaction energy: 5.650378552431022ASE ID: 8040f64f194a1263c951437f4e9c389b

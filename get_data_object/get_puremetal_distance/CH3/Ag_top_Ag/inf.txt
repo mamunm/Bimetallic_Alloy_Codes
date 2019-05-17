@@ -1,0 +1,1 @@
+Adsorbate: CH3Symbol: AgSB symbol: A1Site: topSite type: AgReaction energy: 1.476338937514896ASE ID: f22d096ff187d1b43f2ca5b54fd52947

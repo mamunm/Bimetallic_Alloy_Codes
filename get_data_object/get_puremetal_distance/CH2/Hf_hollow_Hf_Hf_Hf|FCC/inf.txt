@@ -1,0 +1,1 @@
+Adsorbate: CH2Symbol: HfSB symbol: A1Site: hollowSite type: Hf_Hf_Hf|FCCReaction energy: -0.04695446732597475ASE ID: d716bf6940f728da914a16a71a9cd01e

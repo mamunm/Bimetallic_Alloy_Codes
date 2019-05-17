@@ -1,0 +1,1 @@
+Adsorbate: CHSymbol: CrSB symbol: A1Site: hollowSite type: Cr_Cr_Cr|HCPReaction energy: 0.31943892513120886ASE ID: 748abc626b2410129f6ebc6d945057ef

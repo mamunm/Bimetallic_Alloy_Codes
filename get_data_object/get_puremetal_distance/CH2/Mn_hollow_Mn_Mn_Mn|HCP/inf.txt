@@ -1,0 +1,1 @@
+Adsorbate: CH2Symbol: MnSB symbol: A1Site: hollowSite type: Mn_Mn_Mn|HCPReaction energy: 0.4186178884693277ASE ID: da6312581dd11bde6fea8d0b2bd04746

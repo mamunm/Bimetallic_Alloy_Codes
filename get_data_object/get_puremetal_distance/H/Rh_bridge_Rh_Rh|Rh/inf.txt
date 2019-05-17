@@ -1,0 +1,1 @@
+Adsorbate: HSymbol: RhSB symbol: A1Site: bridgeSite type: Rh_Rh|RhReaction energy: -0.17994343915685818ASE ID: 388705b9a1b1514d4ea613087482c4f4

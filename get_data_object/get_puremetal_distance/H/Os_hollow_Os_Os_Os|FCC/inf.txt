@@ -1,0 +1,1 @@
+Adsorbate: HSymbol: OsSB symbol: A1Site: hollowSite type: Os_Os_Os|FCCReaction energy: -0.25851345295720307ASE ID: 54d7e4dd2c1895d62962aacc700b392c

@@ -1,0 +1,1 @@
+Adsorbate: SSymbol: AgSB symbol: A1Site: hollowSite type: Ag_Ag_Ag|HCPReaction energy: -0.24250254678912597ASE ID: 45530396b5f3d0f4bc7ab22921cae534

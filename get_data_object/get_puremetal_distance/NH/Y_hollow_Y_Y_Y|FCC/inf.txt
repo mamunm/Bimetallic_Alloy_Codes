@@ -1,0 +1,1 @@
+Adsorbate: NHSymbol: YSB symbol: A1Site: hollowSite type: Y_Y_Y|FCCReaction energy: -2.776879001571615ASE ID: 7d37936eec527c8e756b2a287bc93a69

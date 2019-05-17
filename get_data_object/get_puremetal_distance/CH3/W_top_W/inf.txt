@@ -1,0 +1,1 @@
+Adsorbate: CH3Symbol: WSB symbol: A1Site: topSite type: WReaction energy: 0.27202689831764815ASE ID: 67b95d5e8743d3a1b200899915444a4a

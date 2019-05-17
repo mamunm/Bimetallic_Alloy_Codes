@@ -1,0 +1,1 @@
+Adsorbate: CH3Symbol: LaSB symbol: A1Site: bridgeSite type: La_La|LaReaction energy: 0.31879496771588833ASE ID: 66e135905962158915d2981492134d63

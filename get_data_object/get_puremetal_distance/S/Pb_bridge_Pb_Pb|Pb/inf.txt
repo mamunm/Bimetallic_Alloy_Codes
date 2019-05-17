@@ -1,0 +1,1 @@
+Adsorbate: SSymbol: PbSB symbol: A1Site: bridgeSite type: Pb_Pb|PbReaction energy: -0.17784571359510437ASE ID: 6e71dd7bc3212617f705068b1c166d7b

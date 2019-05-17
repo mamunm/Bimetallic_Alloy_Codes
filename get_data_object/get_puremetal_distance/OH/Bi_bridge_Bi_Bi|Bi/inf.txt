@@ -1,0 +1,1 @@
+Adsorbate: OHSymbol: BiSB symbol: A1Site: bridgeSite type: Bi_Bi|BiReaction energy: 0.13099152018264704ASE ID: d4041c632120241dddc33fcf639bd39d

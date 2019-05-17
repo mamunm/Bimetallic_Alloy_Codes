@@ -1,0 +1,1 @@
+Adsorbate: CH2Symbol: HfSB symbol: A1Site: bridgeSite type: Hf_Hf|HfReaction energy: 0.11335010797398581ASE ID: a498ec9ce68affa4fbfc80155a99821c

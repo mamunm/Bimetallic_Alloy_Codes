@@ -1,0 +1,1 @@
+Adsorbate: SHSymbol: LaSB symbol: A1Site: bridgeSite type: La_La|LaReaction energy: -1.921047781152879ASE ID: 24a2e59260189c192b442ee7076aa16a

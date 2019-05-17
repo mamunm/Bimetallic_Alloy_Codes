@@ -1,0 +1,1 @@
+Adsorbate: HSymbol: CdSB symbol: A1Site: bridgeSite type: Cd_Cd|CdReaction energy: 0.8393683331387649ASE ID: f5a538d548aae39da2b0324e6f171009

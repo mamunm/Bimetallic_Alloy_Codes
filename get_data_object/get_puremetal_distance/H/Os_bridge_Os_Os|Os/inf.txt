@@ -1,0 +1,1 @@
+Adsorbate: HSymbol: OsSB symbol: A1Site: bridgeSite type: Os_Os|OsReaction energy: -0.1685786047591762ASE ID: 1c48215b2f1813257503a5b723ce53ad

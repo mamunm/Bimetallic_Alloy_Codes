@@ -1,0 +1,1 @@
+Adsorbate: SHSymbol: GaSB symbol: A1Site: bridgeSite type: Ga_Ga|GaReaction energy: -0.18977096655623882ASE ID: f28f55a2a8ed78b1870bd7993334a78e

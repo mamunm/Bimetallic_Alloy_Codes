@@ -1,0 +1,1 @@
+Adsorbate: SSymbol: HgSB symbol: A1Site: hollowSite type: Hg_Hg_Hg|HCPReaction energy: 1.1136038435070645ASE ID: dd4dd01f47a4fab6a564e6556b0e5181

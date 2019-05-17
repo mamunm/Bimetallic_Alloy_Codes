@@ -1,0 +1,1 @@
+Adsorbate: CH3Symbol: TaSB symbol: A1Site: bridgeSite type: Ta_Ta|TaReaction energy: 0.06677319851596053ASE ID: 5aacebf4076ad52ad42fe5079ad2081b

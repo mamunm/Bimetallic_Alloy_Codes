@@ -1,0 +1,1 @@
+Adsorbate: CH3Symbol: FeSB symbol: A1Site: bridgeSite type: Fe_Fe|FeReaction energy: -0.26014763268895535ASE ID: 1b7fd0f6811e9c1c15f2a119bdee6cd2

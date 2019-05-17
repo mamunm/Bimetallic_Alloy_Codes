@@ -1,0 +1,1 @@
+Adsorbate: NSymbol: CoSB symbol: A1Site: topSite type: CoReaction energy: 1.7804846565904882ASE ID: 5abf25d961e627a3159a1e6b2890fba6

@@ -1,0 +1,1 @@
+Adsorbate: CSymbol: PdSB symbol: A1Site: hollowSite type: Pd_Pd_Pd|HCPReaction energy: 2.5047326453941423ASE ID: 12aa4e0ed5caeec1cc8e0b4c0d1b61aa

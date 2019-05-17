@@ -1,0 +1,1 @@
+Adsorbate: HSymbol: IrSB symbol: A1Site: bridgeSite type: Ir_Ir|IrReaction energy: -0.12120372155820291ASE ID: bdbd739c2509a2969daf685743ffb92a

@@ -1,0 +1,1 @@
+Adsorbate: OHSymbol: VSB symbol: A1Site: hollowSite type: V_V_V|HCPReaction energy: -2.3632254219220385ASE ID: 37e49b463c6933945c46bd495b5e8cf2

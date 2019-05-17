@@ -1,0 +1,1 @@
+Adsorbate: CSymbol: VSB symbol: A1Site: hollowSite type: V_V_V|FCCReaction energy: 0.8832808399902206ASE ID: 33b3d54e52aaf159bf45e1dbf379d946

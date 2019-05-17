@@ -1,0 +1,1 @@
+Adsorbate: OHSymbol: LaSB symbol: A1Site: topSite type: LaReaction energy: -1.2737670556226703ASE ID: 21a777e31bb8af8f4b883d3c2c9a20d9

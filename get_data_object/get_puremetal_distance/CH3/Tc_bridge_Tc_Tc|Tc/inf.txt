@@ -1,0 +1,1 @@
+Adsorbate: CH3Symbol: TcSB symbol: A1Site: bridgeSite type: Tc_Tc|TcReaction energy: 0.5690116696169696ASE ID: 44ddad422c50f3609f4da90860e4e91f

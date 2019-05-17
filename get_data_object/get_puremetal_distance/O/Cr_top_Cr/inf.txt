@@ -1,0 +1,1 @@
+Adsorbate: OSymbol: CrSB symbol: A1Site: topSite type: CrReaction energy: -0.9266883034617308ASE ID: 9caaa2b9ed8a7838c318027fd80b3ac3

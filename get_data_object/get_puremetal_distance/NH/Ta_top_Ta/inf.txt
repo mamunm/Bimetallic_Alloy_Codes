@@ -1,0 +1,1 @@
+Adsorbate: NHSymbol: TaSB symbol: A1Site: topSite type: TaReaction energy: -1.0025077905747821ASE ID: 65772a8423822a8d44c73a07eedeac71

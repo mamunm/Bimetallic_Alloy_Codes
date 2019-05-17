@@ -1,0 +1,1 @@
+Adsorbate: SHSymbol: SnSB symbol: A1Site: bridgeSite type: Sn_Sn|SnReaction energy: -0.42612319645093066ASE ID: 9a741eae111c5dcb9f79f27f934e5459

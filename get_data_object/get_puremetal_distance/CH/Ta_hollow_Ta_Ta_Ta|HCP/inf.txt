@@ -1,0 +1,1 @@
+Adsorbate: CHSymbol: TaSB symbol: A1Site: hollowSite type: Ta_Ta_Ta|HCPReaction energy: 0.06843595013017989ASE ID: 578d8b60c91eeadc80b483a28e81639f

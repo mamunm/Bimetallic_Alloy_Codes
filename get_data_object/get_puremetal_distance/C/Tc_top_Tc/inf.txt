@@ -1,0 +1,1 @@
+Adsorbate: CSymbol: TcSB symbol: A1Site: topSite type: TcReaction energy: 3.7233491647903065ASE ID: 60207b3d1f841102169f7dcb68fe51a8

@@ -1,0 +1,1 @@
+Adsorbate: OSymbol: CuSB symbol: A1Site: topSite type: CuReaction energy: 2.560818708941781ASE ID: 1e619ce4c3f985f7c2d1edce3341b674

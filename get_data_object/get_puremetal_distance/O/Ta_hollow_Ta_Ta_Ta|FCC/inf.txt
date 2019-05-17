@@ -1,0 +1,1 @@
+Adsorbate: OSymbol: TaSB symbol: A1Site: hollowSite type: Ta_Ta_Ta|FCCReaction energy: -3.2604594432634144ASE ID: e6984b1f261c397d2191c727c36ca1a3

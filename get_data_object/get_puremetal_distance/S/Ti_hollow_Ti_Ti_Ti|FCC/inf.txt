@@ -1,0 +1,1 @@
+Adsorbate: SSymbol: TiSB symbol: A1Site: hollowSite type: Ti_Ti_Ti|FCCReaction energy: -3.252003369594547ASE ID: d88c0172e2060e65cf759ef962951e11

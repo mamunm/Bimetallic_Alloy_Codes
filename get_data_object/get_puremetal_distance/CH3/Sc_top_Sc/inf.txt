@@ -1,0 +1,1 @@
+Adsorbate: CH3Symbol: ScSB symbol: A1Site: topSite type: ScReaction energy: 0.637872933817647ASE ID: 7af9eef346a6412a20e55d5526eb02fc

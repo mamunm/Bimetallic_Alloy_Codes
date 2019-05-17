@@ -1,0 +1,1 @@
+Adsorbate: HSymbol: YSB symbol: A1Site: topSite type: YReaction energy: 0.2173785482418964ASE ID: 20cede9568295f91f398ce53e4694724

@@ -1,0 +1,1 @@
+Adsorbate: SSymbol: AuSB symbol: A1Site: hollowSite type: Au_Au_Au|HCPReaction energy: -0.02868610479703193ASE ID: 6cd6c87994ef283e6b6ec9d9b981f73e

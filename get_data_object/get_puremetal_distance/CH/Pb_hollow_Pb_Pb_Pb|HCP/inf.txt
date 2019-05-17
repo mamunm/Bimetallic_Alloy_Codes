@@ -1,0 +1,1 @@
+Adsorbate: CHSymbol: PbSB symbol: A1Site: hollowSite type: Pb_Pb_Pb|HCPReaction energy: 3.7505563309332786ASE ID: 6195cf1bf463b6d8215fa32829c3e743

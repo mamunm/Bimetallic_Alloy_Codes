@@ -1,0 +1,1 @@
+Adsorbate: OHSymbol: TaSB symbol: A1Site: topSite type: TaReaction energy: -1.4112725730220745ASE ID: d911865be36f589746084bd8ddffc0a0

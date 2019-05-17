@@ -1,0 +1,1 @@
+Adsorbate: NHSymbol: FeSB symbol: A1Site: hollowSite type: Fe_Fe_Fe|FCCReaction energy: -0.7234214429709027ASE ID: fafdd5014bc651127c3d6a7c54259351

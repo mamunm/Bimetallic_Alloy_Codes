@@ -1,0 +1,1 @@
+Adsorbate: OSymbol: IrSB symbol: A1Site: topSite type: IrReaction energy: 1.6106365047378972ASE ID: e964d766c4ec47e4dd6d6344027f675f

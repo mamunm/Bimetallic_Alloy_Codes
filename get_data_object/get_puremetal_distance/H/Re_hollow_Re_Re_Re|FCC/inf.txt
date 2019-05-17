@@ -1,0 +1,1 @@
+Adsorbate: HSymbol: ReSB symbol: A1Site: hollowSite type: Re_Re_Re|FCCReaction energy: -0.5119850445580312ASE ID: ab1af1d1b910409fe656e6df059dd07c

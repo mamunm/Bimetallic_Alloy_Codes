@@ -1,0 +1,1 @@
+Adsorbate: SHSymbol: ZrSB symbol: A1Site: bridgeSite type: Zr_Zr|ZrReaction energy: -1.9511847969523615ASE ID: 98ddb2f2c9e9c9f51a31769052f173d8

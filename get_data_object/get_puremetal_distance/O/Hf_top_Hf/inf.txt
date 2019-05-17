@@ -1,0 +1,1 @@
+Adsorbate: OSymbol: HfSB symbol: A1Site: topSite type: HfReaction energy: -0.7492420529599144ASE ID: af9babef5c9b735982ae3235d6f5377c

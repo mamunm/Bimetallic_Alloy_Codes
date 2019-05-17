@@ -1,0 +1,1 @@
+Adsorbate: HSymbol: ZrSB symbol: A1Site: hollowSite type: Zr_Zr_Zr|HCPReaction energy: -0.9923391684578462ASE ID: 89d11c5647952c8a0fcd3fdc18343ffb

@@ -1,0 +1,1 @@
+Adsorbate: NSymbol: TlSB symbol: A1Site: hollowSite type: Tl_Tl_Tl|HCPReaction energy: 2.917557638387734ASE ID: e9398fed197be2dd80fa67e9e0324919

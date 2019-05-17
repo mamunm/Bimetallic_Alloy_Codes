@@ -1,0 +1,1 @@
+Adsorbate: CH3Symbol: HfSB symbol: A1Site: topSite type: HfReaction energy: 0.6336014267181724ASE ID: 92c222d3b15bc6c613268a2cc820e24d

@@ -1,0 +1,1 @@
+Adsorbate: SSymbol: VSB symbol: A1Site: topSite type: VReaction energy: -1.8076783530959233ASE ID: 8f8fed0821ecfa4884fb9aaced680b0a

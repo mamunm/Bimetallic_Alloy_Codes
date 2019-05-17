@@ -1,0 +1,1 @@
+Adsorbate: CH3Symbol: LaSB symbol: A1Site: hollowSite type: La_La_La|FCCReaction energy: 0.19138324101376725ASE ID: 47d589569f1dca94a6ed11d3f6b87b63

@@ -1,0 +1,1 @@
+Adsorbate: NHSymbol: LaSB symbol: A1Site: hollowSite type: La_La_La|FCCReaction energy: -2.115349715270895ASE ID: 9a830873fd18847c01c747d00259a334

@@ -1,0 +1,1 @@
+Adsorbate: CSymbol: TiSB symbol: A1Site: topSite type: TiReaction energy: 3.8038518670919075ASE ID: 105ef3842c2daee252b32b6f3b6d1d7a

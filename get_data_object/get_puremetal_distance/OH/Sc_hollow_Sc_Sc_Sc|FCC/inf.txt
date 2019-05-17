@@ -1,0 +1,1 @@
+Adsorbate: OHSymbol: ScSB symbol: A1Site: hollowSite type: Sc_Sc_Sc|FCCReaction energy: -2.734053181419881ASE ID: 8c674ab21ea1af5052933d8f50130268

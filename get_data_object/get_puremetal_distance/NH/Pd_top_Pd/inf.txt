@@ -1,0 +1,1 @@
+Adsorbate: NHSymbol: PdSB symbol: A1Site: topSite type: PdReaction energy: 2.420902535132882ASE ID: 8a11df7240abf6390913c1cf007aea3f
